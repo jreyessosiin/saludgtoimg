@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="594.7 357.3 12.2 19.9">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(584 183)">
+    <path id="Path_17" data-name="Path 17" class="cls-1" d="M20.3,178.7h0v-.8a3.6,3.6,0,1,0-7.2,0v.8Z"/>
+    <path id="Path_18" data-name="Path 18" class="cls-1" d="M20.3,179.9h0v-.5H13.1v.5Z"/>
+    <g id="Group_12" data-name="Group 12">
+      <path id="Path_19" data-name="Path 19" class="cls-2" d="M22.9,185.6v-1.5a.43.43,0,0,0-.4-.4h-.7a.43.43,0,0,0-.4.4v.3h-1v-3.9H13.3v3.9H12.2v-.3a.43.43,0,0,0-.4-.4h-.7a.43.43,0,0,0-.4.4v1.5a6.317,6.317,0,0,0,5.4,6.1v1H12.9a.43.43,0,0,0-.4.4v.7a.43.43,0,0,0,.4.4h7.9a.43.43,0,0,0,.4-.4v-.7a.43.43,0,0,0-.4-.4H17.6v-1A6.239,6.239,0,0,0,22.9,185.6Zm-6.2,4.6a4.526,4.526,0,0,1-4.6-4.6v-.5h1.1v.7a3.6,3.6,0,1,0,7.2,0v-.7h1v.5A4.739,4.739,0,0,1,16.7,190.2Z"/>
+    </g>
+  </g>
+</svg>

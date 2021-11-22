@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="591.7 257.1 20.968 18.039">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #16288e;
+      }
+    </style>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(584 183)">
+    <path id="Path_10" data-name="Path 10" class="cls-1" d="M16.4,91.5a8.7,8.7,0,1,1,8.7-8.7A8.706,8.706,0,0,1,16.4,91.5Zm0-15.2a6.5,6.5,0,1,0,6.5,6.5A6.487,6.487,0,0,0,16.4,76.3Z"/>
+    <path id="Path_11" data-name="Path 11" class="cls-1" d="M27.3,92.1a2.2,2.2,0,0,1-1.4-.2l-6.7-4.1a1.818,1.818,0,1,1,1.9-3.1l6.7,4.1a1.808,1.808,0,0,1,.6,2.5A1.548,1.548,0,0,1,27.3,92.1Z"/>
+    <g id="Group_7" data-name="Group 7">
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="6.5" cy="6.5" r="6.5" transform="translate(9.9 76.4)"/>
+      <g id="Group_6" data-name="Group 6">
+        <path id="Path_12" data-name="Path 12" class="cls-1" d="M16.4,87.1a.789.789,0,0,1-.8-.8V79.5a.8.8,0,1,1,1.6,0v6.8A.789.789,0,0,1,16.4,87.1Z"/>
+        <path id="Path_13" data-name="Path 13" class="cls-1" d="M19.8,83.7H13a.8.8,0,0,1,0-1.6h6.8a.8.8,0,0,1,0,1.6Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
