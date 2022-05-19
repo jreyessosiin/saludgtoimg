@@ -21,6 +21,11 @@
             "src": "https://cdn.statically.io/gh/jreyessosiin/saludgtoimg/main/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
+        },
+        {
+            "src": "https://cdn.statically.io/gh/jreyessosiin/saludgtoimg/main/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "start_url": "https://salud.guanajuato.gob.mx",
